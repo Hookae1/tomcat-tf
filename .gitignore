@@ -8,7 +8,7 @@ crash.log
 
 *.tfvars
 
-*.lock
+*.hcl
 
 override.tf
 override.tf.json
